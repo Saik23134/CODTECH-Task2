@@ -1,3 +1,8 @@
+Name :Muneppa Sai kiran
+Company :CODTECH IT SOLUTIONS
+ID :CT08DS9789
+DOMAIN :ARTIFICIAL INTELLIGENCE
+
 
  1. **Loading the Dataset**:
    - The **Iris dataset** is loaded using `load_iris()` from `sklearn.datasets`, which contains features of flowers and their species labels.
